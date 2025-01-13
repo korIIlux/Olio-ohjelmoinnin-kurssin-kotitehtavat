@@ -1,2 +1,2 @@
-# Olio-ohjelmoinnin-kurssin-kotiteht-v-t
+# Olio-ohjelmoinnin-kurssin-kotitehtavat
 Tässä on Olio-ohjelmoinnin kurssin kotitehtävät
